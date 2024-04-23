@@ -1,0 +1,35 @@
+{
+  "PADCTRA1": "E:\\Amo11\\DB\\PADCTRA1\\dbspacechk.csv",
+  "PADCTRS2": "E:\\Amo11\\DB\\PADCTRS2\\dbspacechk.csv",
+  "targetFolderPADCTRA1":"E:\\Amo11\\Result file\\PADCTRA1\\",
+
+   "PADDWRA1": "E:\\Amo11\\DB\\PADDWRA1\\dbspacechk.csv",
+  "PADDWRS2": "E:\\Amo11\\DB\\PADDWRS2\\dbspacechk.csv",
+  "targetFolderPADDWRA1": "E:\\Amo11\\Result file\\PADDWRA1\\",
+
+   "PADNVRA1": "E:\\Amo11\\DB\\PADNVRA1\\dbspacechk.csv",
+   "PADNVRA3": "E:\\Amo11\\DB\\PADNVRA3\\dbspacechk.csv",
+  "PADNVRS2": "E:\\Amo11\\DB\\PADNVRS2\\dbspacechk.csv",
+  "PADNVRS4": "E:\\Amo11\\DB\\PADNVRS4\\dbspacechk.csv",
+  "targetFolderPADNVRA1": "E:\\Amo11\\Result file\\PADNVRA1\\",
+
+  "PADPRRA1":"E:\\Amo11\\DB\\PADPRRA1\\dbspacechk.csv",
+  "PADPRRS2":"E:\\Amo11\\DB\\PADPRRS2\\dbspacechk.csv",
+   "targetFolderPADPRRA1": "E:\\Amo11\\Result file\\PADPRRA1\\",
+
+   "PADSCRA1":"E:\\Amo11\\DB\\PADSCRA1\\dbspacechk.csv",
+  "PADSCRA3":"E:\\Amo11\\DB\\PADSCRA3\\dbspacechk.csv",
+  "PADSCRS2":"E:\\Amo11\\DB\\PADSCRS2\\dbspacechk.csv",
+   "PADSCRS4":"E:\\Amo11\\DB\\PADSCRS4\\dbspacechk.csv",
+  "targetFolderPADSCRA1":"E:\\Amo11\\Result file\\PADSCRA1\\",
+
+  "PADUSRA1":"E:\\Amo11\\DB\\PADUSRA1\\dbspacechk.csv",
+  "PADUSRS2":"E:\\Amo11\\DB\\PADUSRS2\\dbspacechk.csv",
+   "targetFolderPADUSRA1": "E:\\Amo11\\Result file\\PADUSRA1\\",
+
+  "file_path":"E:\\Amo11\\Result file\\DB容量貼り付けマクロ.xlsm",
+  "macro_name":"Btn1_Click",
+  "logfile":"E:\\Amo11\\Trace logs",
+  "graph_path": "E:\\Amo11\\Result file"
+}
+

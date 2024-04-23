@@ -1,0 +1,11 @@
+2024-03-22 18:46:00,513 - INFO - AMO_11 Automation - Start of Log
+2024-03-22 18:46:00,514 - INFO - AMO_011 AUTOMATION-DB容量使用状況作成
+2024-03-22 18:46:02,506 - INFO - Enter the correct input  
+2024-03-22 18:46:02,506 - INFO - mismatch user input :  yhg
+2024-03-22 18:46:02,506 - INFO - AMO_11 Automation - Start of Log
+2024-03-22 18:46:02,506 - INFO - AMO_011 AUTOMATION-DB容量使用状況作成
+2024-03-22 18:46:03,635 - INFO - Enter the correct input  
+2024-03-22 18:46:03,635 - INFO - mismatch user input :  jh
+2024-03-22 18:46:03,635 - INFO - AMO_11 Automation - Start of Log
+2024-03-22 18:46:03,637 - INFO - AMO_011 AUTOMATION-DB容量使用状況作成
+2024-03-22 18:46:05,619 - INFO - user input :  n
